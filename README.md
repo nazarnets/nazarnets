@@ -4,3 +4,4 @@
 # **Contact**
 > ***@yugokash on Discord***
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarnets&theme=dark&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nazarnets&theme=dark&layout=compact"/>
